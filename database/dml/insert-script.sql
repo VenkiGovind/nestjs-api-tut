@@ -1,8 +1,8 @@
 insert into `member` (memberCode, dob, firstName, lastName) values (
  'AA0001230011',
- '1978-10-12',
- 'Venki',
- 'Govind'
+ '1995-10-12',
+ 'Venkates',
+ 'Govindaidi'
 );
 
 insert into `member` (memberCode, dob, firstName, lastName) values (
@@ -51,24 +51,24 @@ insert into `member` (memberCode, dob, firstName, lastName) values (
 insert into `memberdetails` (member_id,streetAddress,addressLine,city,state,email,phone,phone2,ssn, isActive)
 values (1, '11 Holland Ave',null,'Albany', 'NY','venki@gmail.com','7621232345', null, '032653980', 0);
 
-insert into `memberdetails` (member_id,streetAddress,addressLine,city,state,email,phone,phone2,ssn)
+insert into `memberdetails` (member_id,streetAddress,addressLine,city,state,email,phone,phone2,ssn, isActive)
 values (2, '102 Rosario street',null,'Plano', 'TX','venki@gmail.com','7621232345', null, '032653980', 0);
 
-insert into `memberdetails` (member_id,streetAddress,addressLine,city,state,email,phone,phone2,ssn)
+insert into `memberdetails` (member_id,streetAddress,addressLine,city,state,email,phone,phone2,ssn, isActive)
 values (3, '11 Holland Ave',null,'Albany', 'NY','venki@gmail.com','7621232345', null, '032653980', 0);
 
-insert into `memberdetails` (member_id,streetAddress,addressLine,city,state,email,phone,phone2,ssn)
+insert into `memberdetails` (member_id,streetAddress,addressLine,city,state,email,phone,phone2,ssn, isActive)
 values (3, '11 Holland Ave',null,'Albany', 'NY','venki@gmail.com','7621232345', null, '032653980', 0);
 
-insert into `memberdetails` (member_id,streetAddress,addressLine,city,state,email,phone,phone2,ssn)
+insert into `memberdetails` (member_id,streetAddress,addressLine,city,state,email,phone,phone2,ssn, isActive)
 values (4, '11 Holland Ave',null,'Albany', 'NY','venki@gmail.com','7621232345', null, '032653980', 0);
 
-insert into `memberdetails` (member_id,streetAddress,addressLine,city,state,email,phone,phone2,ssn)
+insert into `memberdetails` (member_id,streetAddress,addressLine,city,state,email,phone,phone2,ssn, isActive)
 values (5, '11 Holland Ave',null,'Albany', 'NY','venki@gmail.com','7621232345', null, '032653980', 0);
 
-insert into `memberdetails` (member_id,streetAddress,addressLine,city,state,email,phone,phone2,ssn)
+insert into `memberdetails` (member_id,streetAddress,addressLine,city,state,email,phone,phone2,ssn, isActive)
 values (6, '11 Holland Ave',null,'Albany', 'NY','venki@gmail.com','7621232345', null, '032653980', 0);
 
-insert into `memberdetails` (member_id,streetAddress,addressLine,city,state,email,phone,phone2,ssn)
+insert into `memberdetails` (member_id,streetAddress,addressLine,city,state,email,phone,phone2,ssn, isActive)
 values (7, '11 Holland Ave',null,'Albany', 'NY','venki@gmail.com','7621232345', null, '032653980', 0);
 
