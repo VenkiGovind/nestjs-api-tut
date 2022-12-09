@@ -1,36 +1,50 @@
 insert into `member` (memberCode, dob) values (
  'AA0001230011',
- '1978-10-12'
+ '1978-10-12',
+ 'Venki',
+ 'Govind'
 );
 
 insert into `member` (memberCode, dob) values (
  'AA0001230012',
  '1962-07-04'
+ 'Ricarod',
+ 'Figueroa'
 );
 
 insert into `member` (memberCode, dob) values (
  'AA0001230013',
  '1982-02-18'
+ 'John',
+ 'Doe'
 );
 
 insert into `member` (memberCode, dob) values (
  'AA0001230014',
  '1982-02-18'
+ 'Jane',
+ 'Doe'
 );
 
 insert into `member` (memberCode, dob) values (
  'AA0001230015',
  '1982-02-18'
+ 'Karthik',
+ 'Konda'
 );
 
 insert into `member` (memberCode, dob) values (
  'AA0001230016',
  '1982-02-18'
+ 'Judy',
+ 'Foster'
 );
 
 insert into `member` (memberCode, dob) values (
  'AA0001230018',
  '1982-02-18'
+ 'Armando',
+ 'Saurez'
 );
 
 
