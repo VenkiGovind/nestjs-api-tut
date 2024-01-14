@@ -1,4 +1,4 @@
-ecs-iskedule-taskdef{
+{
     "taskDefinitionArn": "arn:aws:ecs:us-east-1:538003334538:task-definition/ecs-iskedule-taskdef:1",
     "containerDefinitions": [
         {
