@@ -6,7 +6,7 @@ import { PhotoModule } from './photo/photo.module';
 import { MemberModule } from './member/member.module';
 
 @Module({
-  imports: [UserModule, PhotoModule, MemberModule],
+  imports: [MemberModule],
   controllers: [AppController],
   providers: [AppService],
 })
